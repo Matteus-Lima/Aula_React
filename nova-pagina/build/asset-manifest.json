@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AulaReact/static/css/main.0a0abc75.css",
+    "main.js": "/AulaReact/static/js/main.9dedff12.js",
+    "static/media/dinheiro.png": "/AulaReact/static/media/dinheiro.9eecbbf2b4c8df2c1057.png",
+    "static/media/rindo.png": "/AulaReact/static/media/rindo.f92171c71826efa61cfb.png",
+    "static/media/calate.png": "/AulaReact/static/media/calate.cc3bafeeab8d0b612749.png",
+    "static/media/porfavor.png": "/AulaReact/static/media/porfavor.08429e4dbdd82c813609.png",
+    "index.html": "/AulaReact/index.html",
+    "main.0a0abc75.css.map": "/AulaReact/static/css/main.0a0abc75.css.map",
+    "main.9dedff12.js.map": "/AulaReact/static/js/main.9dedff12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a0abc75.css",
+    "static/js/main.9dedff12.js"
+  ]
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Lobster', cursive;
+}
+.Blocos {
+  display: flex;
+  position: relative; 
+  justify-content: center;
+   
+}
+
+.dinheiro{
+  width: 75px;
+  height: 75px;
+  padding : 15px;
+}
+.porfavor{
+  width: 75px;
+  height: 75px;
+  padding: 15px;
+}
+.calate{
+  width: 75px;
+  height: 75px;
+  padding: 15px;
+}
